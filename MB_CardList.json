@@ -1,0 +1,3950 @@
+{
+  "MB-MRK01": {
+    "id": "MB-MRK01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Imp guardiano",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/6pcTZT51/Imp-guardiano.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Imp guardiano",
+    "type": "Unità",
+    "cost": "1",
+    "Moraki": true
+  },
+  "MB-MRK02": {
+    "id": "MB-MRK02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Billy, il traghettatore demoniaco",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/2841z0pj/Billy-il-traghettatore-demoniaco.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Billy, il traghettatore demoniaco",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": true
+  },
+  "MB-MRK03": {
+    "id": "MB-MRK03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lamento delle notti tempestose",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/QdmV7Vx4/Lamento-delle-notti-tempestose.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lamento delle notti tempestose",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": true
+  },
+  "MB-MRK04": {
+    "id": "MB-MRK04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pianista scordato",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/1zzXrPfk/Pianista-scordato-(2).png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pianista scordato",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": true
+  },
+  "MB-MRK05": {
+    "id": "MB-MRK05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alastav Imp alchimista",
+        "type": "Unità",
+        "cost": "4",
+        "image": "https://i.postimg.cc/SNWnyg0s/Alastav-Imp-alchimista.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alastav Imp alchimista",
+    "type": "Unità",
+    "cost": "4",
+    "Moraki": true
+  },
+  "MB-MRK06": {
+    "id": "MB-MRK06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spettro rosso, mago del culto",
+        "type": "Unità",
+        "cost": "5",
+        "image": "https://i.postimg.cc/nLLrGZXV/Spettro-rosso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spettro rosso, mago del culto",
+    "type": "Unità",
+    "cost": "5",
+    "Moraki": true
+  },
+  "MB-MRK07": {
+    "id": "MB-MRK07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altare necrofago",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/FsjY9TtK/Altare-necrofago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altare necrofago",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Moraki": true
+  },
+  "MB-MRK08": {
+    "id": "MB-MRK08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grimorio del culto nero",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/T3fphnG4/Grimorio-del-culto-nero.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grimorio del culto nero",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Moraki": true
+  },
+  "MB-MRK09": {
+    "id": "MB-MRK09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Incantesimo proibito",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/zG73h3Xc/Incantesimo-proibito.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Incantesimo proibito",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Moraki": true
+  },
+  "MB-MRK12": {
+    "id": "MB-MRK10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manipolazione del riflesso",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/W18tZt1p/Manipolazione-del-riflesso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manipolazione del riflesso",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Moraki": true
+  },
+  "MB-MRK10": {
+    "id": "MB-MRK10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sguardo del cultista",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/s22x4yMC/Sguardo-del-cultista.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sguardo del cultista",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": true
+  },
+  "MB-MRK11": {
+    "id": "MB-MRK11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Taglia e cuci",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/6QQqfw82/Taglia-e-cuci.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Taglia e cuci",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": true
+  },
+  "MB-MRK13": {
+    "id": "MB-MRK13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sacrilegio",
+        "type": "Sortilegio",
+        "cost": "3",
+        "image": "https://i.postimg.cc/FKKzVmYQ/Sacrilegio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sacrilegio",
+    "type": "Sortilegio",
+    "cost": "3",
+    "Moraki": true
+  },
+  "MB-MRK14": {
+    "id": "MB-MRK14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Distruzione dell'anima",
+        "type": "Sortilegio",
+        "cost": "3",
+        "image": "https://i.postimg.cc/L6zJHxdh/Distruzione-dell-anima.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Distruzione dell'anima",
+    "type": "Sortilegio",
+    "cost": "3",
+    "Moraki": true
+  },
+  "MB-MRK15": {
+    "id": "MB-MRK15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Adepta della magia proibita",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/qMjdXKyg/Adepta-della-magia-proibita.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Adepta della magia proibita",
+    "type": "Unità",
+    "cost": "1",
+    "Moraki": true
+  },
+  "MB-MRK16": {
+    "id": "MB-MRK16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Imp del crepuscolo",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/KvJyrTBQ/Imp-del-crepuscolo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Imp del crepuscolo",
+    "type": "Unità",
+    "cost": "1",
+    "Moraki": true
+  },
+  "MB-MRK17": {
+    "id": "MB-MRK17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lakarim, Iniziata del culto proibito",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/sgxCn24T/Lakarim-Iniziata-del-culto-proibito.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lakarim, Iniziata del culto proibito",
+    "type": "Unità",
+    "cost": "1",
+    "Moraki": true
+  },
+  "MB-MRK18": {
+    "id": "MB-MRK18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Imp della mietitura",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/ZKVhFNpL/Imp-della-mietitura.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Imp della mietitura",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": true
+  },
+  "MB-MRK19": {
+    "id": "MB-MRK19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reyva, Portatrice dell'impeto dannato",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/SxRbZKGS/Reyva-Portatrice-dell-impeto-dannato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reyva, Portatrice dell'impeto dannato",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": true
+  },
+  "MB-MRK20": {
+    "id": "MB-MRK20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Abietto guardasoglia",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/zX01ShKB/Abietto-guardasoglia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Abietto guardasoglia",
+    "type": "Unità",
+    "cost": "3",
+    "Moraki": true
+  },
+  "MB-MRK21": {
+    "id": "MB-MRK21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vanalel, sacerdotessa dannata",
+        "type": "Unità",
+        "cost": "4",
+        "image": "https://i.postimg.cc/rwHX7LhT/Vanalel-sacerdotessa-dannata.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vanalel, sacerdotessa dannata",
+    "type": "Unità",
+    "cost": "4",
+    "Moraki": true
+  },
+  "MB-MRK22": {
+    "id": "MB-MRK22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kortmur, araldo del risveglio maledetto",
+        "type": "Unità",
+        "cost": "5",
+        "image": "https://i.postimg.cc/zGvYdfFF/Kortmur-araldo-del-risveglio-maledetto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kortmur, araldo del risveglio maledetto",
+    "type": "Unità",
+    "cost": "5",
+    "Moraki": true
+  },
+  "MB-MRK23": {
+    "id": "MB-MRK23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cancello dell'oblio",
+        "type": "Incantesimo",
+        "cost": "1",
+        "image": "https://i.postimg.cc/MKd8bBVG/Cancello-dell-oblio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cancello dell'oblio",
+    "type": "Incantesimo",
+    "cost": "1",
+    "Moraki": true
+  },
+  "MB-MRK24": {
+    "id": "MB-MRK24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cerimoniale della flagellazione",
+        "type": "Incantesimo",
+        "cost": "1",
+        "image": "https://i.postimg.cc/7YmyMz0S/Cerimoniale-della-flagellazione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cerimoniale della flagellazione",
+    "type": "Incantesimo",
+    "cost": "1",
+    "Moraki": true
+  },
+  "MB-MRK25": {
+    "id": "MB-MRK25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altare del furto spirituale",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/sDwR9W7x/Altare-del-furto-spirituale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altare del furto spirituale",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Moraki": true
+  },
+  "MB-MRK27": {
+    "id": "MB-MRK26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Patto di morte",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/pLrM0dJS/Patto-di-morte.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Patto di morte",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": true
+  },
+  "MB-MRK26": {
+    "id": "MB-MRK26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rinascita Profana",
+        "type": "Sortilegio",
+        "cost": "",
+        "image": "https://i.postimg.cc/jS10Br8Y/Rinascita-Profana.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rinascita Profana",
+    "type": "Sortilegio",
+    "cost": "",
+    "Moraki": true
+  },
+  "MB-MRK28": {
+    "id": "MB-MRK28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Echi del sepolcro",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/YqbwfFY3/Echi-del-sepolcro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Echi del sepolcro",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": true
+  },
+  "MB-MRK-P01": {
+    "id": "MB-MRK-P01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Maleficio",
+        "type": "Pedina",
+        "cost": "1",
+        "image": "https://i.postimg.cc/V6VCCvgT/Maleficio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maleficio",
+    "type": "Pedina",
+    "cost": "1",
+    "Moraki": true
+  },
+  "MB-NSR01": {
+    "id": "MB-NSR01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Costrutto Guardiano",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/Gmh5cSBp/Costrutto_guardiano.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Costrutto Guardiano",
+    "type": "Unità",
+    "cost": "1",
+    "": "",
+    "Neutrale": false,
+    "Neshar": true
+  },
+  "MB-NSR02": {
+    "id": "MB-SNR02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elmer lo scultore di golem",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/g2kTYBwq/Elmer_lo_scultore_di_golem.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elmer lo scultore di golem",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR03": {
+    "id": "MB-NSR03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Famiglio dell'arcimago",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/CxLQF6Zb/Famiglio_dell_arcimago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Famiglio dell'arcimago",
+    "type": "Unità",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR04": {
+    "id": "MB-NSR04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anaconda occhi di lampo",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/VLwhhNmq/Anaconda_occhi_di_lampo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anaconda occhi di lampo ",
+    "type": "Unità",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR05": {
+    "id": "MB-NSR05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viverna Blu-jet",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/xdBx3f6H/Viverna_Blu_Jet.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viverna Blu-jet",
+    "type": "Unità",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR06": {
+    "id": "MB-NSR06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Valdael, il composotire di miracoli",
+        "type": "Unità",
+        "cost": "5",
+        "image": "https://i.postimg.cc/LsJQPY3z/Valdael_il_compositore_di_miracoli.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Valdael, il compositore di miracoli",
+    "type": "Unità",
+    "cost": "5",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR07": {
+    "id": "MB-NSR07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Composizione di Valdael",
+        "type": "Incantesimo",
+        "cost": "1",
+        "image": "https://i.postimg.cc/3JhqqwYc/Composizione_di_Valdael.png",
+        "isHorizontal": false
+      }
+    },
+    "name": " Composizione di Valdael",
+    "type": "Incantesimo",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR08": {
+    "id": "MB-NSR08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diletti dell'arcimago",
+        "type": "Incantesimo",
+        "cost": "1",
+        "image": "https://i.postimg.cc/Gmh5cSBF/Diletti_dell_arcimago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Diletti dell'arcimago",
+    "type": "Incantesimo",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR09": {
+    "id": "MB-NSR09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rituale della materia",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/g0xthXHw/Rituale_della_materia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rituale della materia",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR10": {
+    "id": "MB-NSR10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Laboratorio metallurgico",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/g2SBrq8Y/Laboratorio_metallurgico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Laboratorio metallurgico",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR11": {
+    "id": "MB-NSR11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Processo decisionale",
+        "type": "Incantesimo",
+        "cost": "3",
+        "image": "https://i.postimg.cc/g0xthXHX/Processo_decisionale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Processo decisionale",
+    "type": "Incantesimo",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR12": {
+    "id": "MB-NSR12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cerchio Alchemico",
+        "type": "Incantesimo",
+        "cost": "3",
+        "image": "https://i.postimg.cc/02v44NPX/Cerchio_alchemico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cerchio alchemico",
+    "type": "Incantesimo",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR13": {
+    "id": "MB-NSR13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conversione alchemica",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/sDzLL2s4/Copia_di_Conversione_alchemica.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conversione alchemica",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR14": {
+    "id": "MB-NSR14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saetta arcana",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/3wkfG4FD/Saetta_Arcana.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saetta arcana",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR15": {
+    "id": "MB-NSR15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Incantaserpi",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/wTBX3Kkn/Incantaserpi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Incantaserpi",
+    "type": "Unità",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR16": {
+    "id": "MB-NSR16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manticora",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/DyYqXCjZ/manticora.png"
+      }
+    },
+    "name": "Manticora",
+    "type": "Unità",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR17": {
+    "id": "MB-NSR17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Accolito del circolo",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/yx1FF2Cg/Accolito_del_circolo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Accolito del circolo",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR18": {
+    "id": "MB-NSR18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Altel, il prestigiatossine",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/D0vqqR3m/Altel_il_prestigiatossine.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Altel, il prestigiatossine",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR19": {
+    "id": "MB-NSR19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Crotalo d'argento",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/63Lr4tgr/Crotalo_d_argento.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crotalo d'argento",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR20": {
+    "id": "MB-NSR20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mofer, campione degli Ofidi",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/dVkGm8pg/Mofer_Campione_degli_Ofidi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mofer, campione degli Ofidi",
+    "type": "Unità",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR21": {
+    "id": "MB-NSR21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sije, predicatore del progresso",
+        "type": "Unità",
+        "cost": "4",
+        "image": "https://i.postimg.cc/FHM3PYQs/Sije_Predicatore_del_progresso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sije, predicatore del progresso",
+    "type": "Unità",
+    "cost": "4",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR22": {
+    "id": "MB-NSR22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rashas, Priora dei veleni",
+        "type": "Unità",
+        "cost": "5",
+        "image": "https://i.postimg.cc/6pknH8NB/Rashas_Priora_dei_veleni.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rashas, Priora dei veleni",
+    "type": "Unità",
+    "cost": "5",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR23": {
+    "id": "MB-NSR23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miracolo percettivo",
+        "type": "Incantesimo",
+        "cost": "1",
+        "image": "https://i.postimg.cc/MpM1bygk/Miracolo_percettivo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miracolo percettivo",
+    "type": "Incantesimo",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR24": {
+    "id": "MB-NSR24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Incremento potenziale",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Wb4GtRnv/Incremento_potenziale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Incremento potenziale",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR25": {
+    "id": "MB-NSR25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dualismo armonico",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/ZYHPTY6F/Dualismo_armonico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dualismo armonico",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR26": {
+    "id": "MB-NSR26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lungimiranza",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/FFpb9Fjm/Lungimiranza.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lungimiranza ",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR27": {
+    "id": "MB-NSR27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Metempsicosi alchemica",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/28X4ZHc9/Metempsicosi_alchemica.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Metempsicosi alchemica",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR28": {
+    "id": "MB-NSR28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Concessione di Valdael",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/NFs11Zv2/Copia_di_Lungimiranza.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Concessione di Valdael",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-NSR-P01": {
+    "id": "MB-NSR-P01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Vipera del circolo",
+        "type": "Pedina",
+        "cost": "1",
+        "image": "https://i.postimg.cc/mZPMG32k/Vipera_del_circolo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vipera del circolo",
+    "type": "Pedina",
+    "cost": "1",
+    "": "",
+    "Neutrale": false,
+    "Neshar": true,
+    "Moraki": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false
+  },
+  "MB-NSR-P02": {
+    "id": "MB-NSR-P02",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Boa sorvegliante",
+        "type": "Pedina",
+        "cost": "1",
+        "image": "https://i.postimg.cc/5jcfcW95/Boa_sorvegliante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boa sorvegliante",
+    "type": "Pedina",
+    "cost": "1",
+    "": "",
+    "Neutrale": false,
+    "Neshar": true,
+    "Moraki": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false
+  },
+  "MB-NSR-P03": {
+    "id": "MB-NSR-P03",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Serpe sabotatrice",
+        "type": "Pedina",
+        "cost": "1",
+        "image": "https://i.postimg.cc/QNF5rgxX/Serpe_sabotatrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serpe sabotatrice",
+    "type": "Pedina",
+    "cost": "1",
+    "": "",
+    "Neutrale": false,
+    "Neshar": true,
+    "Moraki": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false
+  },
+  "MB-NSR-P04": {
+    "id": "MB-NSR-P04",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Shillas, basilisco del supplizio",
+        "type": "Pedina",
+        "cost": "4",
+        "image": "https://i.postimg.cc/PfCZkbrx/Shillas_basilisco_del_supplizio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shillas, basilisco del supplizio",
+    "type": "Pedina",
+    "cost": "4",
+    "": "",
+    "Neutrale": false,
+    "Neshar": true,
+    "Moraki": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false
+  },
+  "MB-NSR-P05": {
+    "id": "MB-NSR-P05",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Agalot, chimera deicida",
+        "type": "Pedina",
+        "cost": "4",
+        "image": "https://i.postimg.cc/yWq7qC6m/Agalot_chimera_deicida.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Agalot, chimera deicida",
+    "type": "Pedina",
+    "cost": "4",
+    "": "",
+    "Neutrale": false,
+    "Neshar": true,
+    "Moraki": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false
+  },
+  "MB-NSR-P06": {
+    "id": "MB-NSR-P06",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Ysuiel, fenice del miraggio eterno",
+        "type": "Pedina",
+        "cost": "4",
+        "image": "https://i.postimg.cc/Kc1Ly7v4/Ysuiel_fenice_del_miraggio_eterno.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ysuiel, fenice del miraggio eterno",
+    "type": "Pedina",
+    "cost": "4",
+    "": "",
+    "Neutrale": false,
+    "Neshar": true,
+    "Moraki": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false
+  },
+  "MB-NSR-P07": {
+    "id": "MB-NSR-P07",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Parafulmini",
+        "type": "Pedina",
+        "cost": "1",
+        "image": "https://i.postimg.cc/Sj0m0bQW/Parafulmini.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Parafulmini",
+    "type": "Pedina",
+    "cost": "1",
+    "": "",
+    "Neutrale": false,
+    "Neshar": true,
+    "Moraki": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false
+  },
+  "MB-NSR-P08": {
+    "id": "MB-NSR-P08",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Miracolo ingegneristico",
+        "type": "Pedina",
+        "cost": "1",
+        "image": "https://i.postimg.cc/G90b0n3J/Miracolo_ingegneristico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miracolo ingegneristico",
+    "type": "Pedina",
+    "cost": "1",
+    "": "",
+    "Neutrale": false,
+    "Neshar": true,
+    "Moraki": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false
+  },
+    "MB-SHK01": {
+    "id": "MB-SHK01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fuoco Fatuo",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/XYdpYxTJ/Fuoco_fatuo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fuoco fatuo",
+    "type": "Unità",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK02": {
+    "id": "MB-SHK02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kaala, ricognitrice sibilante",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/W47zMzNx/Kaala_ricognitrice_sibilante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaala, ricognitrice sibilante",
+    "type": "Unità",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK03": {
+    "id": "MB-SHK03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nutrice zampartiglio ",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/tTSgMcVZ/Nutrice_zampartiglio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nutrice zampartiglio ",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK04": {
+    "id": "MB-SHK04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spiritello della taviverna ",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Wzd4L7M9/Spiritello_della_taviverna.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spiritello della taviverna ",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK05": {
+    "id": "MB-SHK05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maga della rugiada",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/CK45j5My/Maga_della_rugiada.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maga della rugiada",
+    "type": "Unità",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK06": {
+    "id": "MB-SHK06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Irmolian, zampartiglio coriaceo ",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/CK45j5h6/Irmolian_zampartiglio_coriaceo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Irmolian, zampartiglio coriaceo ",
+    "type": "Unità",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK07": {
+    "id": "MB-SHK07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Osion, l'incubo della selva",
+        "type": "Unità",
+        "cost": "4",
+        "image": "https://i.postimg.cc/x1Mc1gW8/Copia_di_Osion_l_incubo_della_selva.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Osion, l'incubo della selva",
+    "type": "Unità",
+    "cost": "4",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK08": {
+    "id": "MB-SHK08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Omnyel, silfo del cordoglio",
+        "type": "Unità",
+        "cost": "6",
+        "image": "https://i.postimg.cc/MTPGFLjR/Omnyel_silfo_del_cordoglio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Omnyel, silfo del cordoglio",
+    "type": "Unità",
+    "cost": "6",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK09": {
+    "id": "MB-SHK09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frenesia",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/FH37HG2L/Frenesia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frenesia",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK10": {
+    "id": "MB-SHK10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doppio colpo",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/bwkswLK2/Doppio_colpo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doppio colpo",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK11": {
+    "id": "MB-SHK11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Offensiva silvestre",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/gJS0T76x/Offensiva_silvestre.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Offensiva silvestre",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK12": {
+    "id": "MB-SHK12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Incanto del salice",
+        "type": "Incantesimo",
+        "cost": "1",
+        "image": "https://i.postimg.cc/0NvrMDsW/Incanto_del_salice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Incanto del salice",
+    "type": "Incantesimo",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK13": {
+    "id": "MB-SHK13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meraviglie del Foscobosco",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/KzvzQb4z/Meraviglie_del_foscobosco.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meraviglie del Foscobosco",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK14": {
+    "id": "MB-SHK14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sorgente incantata",
+        "type": "Incantesimo",
+        "cost": "3",
+        "image": "https://i.postimg.cc/7h5L8Ngs/Sorgente_incantata.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sorgente incantata",
+    "type": "Incantesimo",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK15": {
+    "id": "MB-SHK15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Labiv, apprendista della vampa ",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/CKvZ353m/Copia_di_Fuoco_fatuo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Labiv, apprendista della vampa ",
+    "type": "Unità",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK16": {
+    "id": "MB-SHK16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eder, figlio della corte verde ",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/B6kjvyQS/Eder_figlio_della_corte_verde.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eder, figlio della corte verde ",
+    "type": "Unità",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK17": {
+    "id": "MB-SHK17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scocca vampe cremisi ",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/J7HyF1PN/Scocca_vampe_cremisi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scocca vampe cremisi ",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK18": {
+    "id": "MB-SHK18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frondaguerriero della rinascita ",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/LXwJs76t/Frondaguerriero_della_rinascita.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Pedina",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frondaguerriero della rinascita ",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK19": {
+    "id": "MB-SHK19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mufan, cacciatore della selva ",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/QC7HKbHz/Mufan_Cacciatore_della_selva.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mufan, cacciatore della selva ",
+    "type": "Unità",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK20": {
+    "id": "MB-SHK20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leahn, musa del bosco notturno ",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/G2V4pNhD/Leahn_Musa_del_bosco_notturno.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leahn, musa del bosco notturno ",
+    "type": "Unità",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK21": {
+    "id": "MB-SHK21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aramis, sorvegliante degli scocca vampe ",
+        "type": "Unità",
+        "cost": "4",
+        "image": "https://i.postimg.cc/Pq6LgJgM/Aramis_Sorvegliante_degli_scocca_vampe.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aramis, sorvegliante degli scocca vampe ",
+    "type": "Unità",
+    "cost": "4",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK22": {
+    "id": "MB-SHK22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Verhal, portatrice di linfa",
+        "type": "Unità",
+        "cost": "5",
+        "image": "https://i.postimg.cc/NFX5245S/portatrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Verhal, portatrice di linfa ",
+    "type": "Unità",
+    "cost": "5",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK23": {
+    "id": "MB-SHK23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Legame delle fronde",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/2yWVLwVh/Legame_delle_fronde.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Legame delle fronde",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK24": {
+    "id": "MB-SHK24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rituale predatorio",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/c1tKzsXc/Rituale_Predatorio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rituale predatorio",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK25": {
+    "id": "MB-SHK25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Benedizione del Groviglio",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Zqf9GnGj/Benedizione_del_Groviglio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Benedizione del Groviglio",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK26": {
+    "id": "MB-SHK26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Simmetria ciclica",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/QtHBhsDg/Simmetria_Ciclica.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Pedina",
+        "cost": 0,
+        "image": "https://i.postimg.cc/2SqYT6zx/back.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Simmetria ciclica",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK27": {
+    "id": "MB-SHK27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raccolto cinereo",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/kMRVHnf9/Raccolto_cinereo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raccolto cinereo",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK28": {
+    "id": "MB-SHK28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Respiro del sottobosco",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/Vs0ShYDm/Respiro_del_sottobosco.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Respiro del sottobosco",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK-P01": {
+    "id": "MB-SHK-01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Giovane zampartiglio",
+        "type": "Pedina",
+        "cost": 0,
+        "image": "https://i.postimg.cc/25fRCxDk/Giovane_zampartiglio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giovane zampartiglio",
+    "type": "Pedina",
+    "cost": 0,
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK-P02": {
+    "id": "MB-SHK-02",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Germoglio",
+        "type": "Pedina",
+        "cost": 0,
+        "image": "https://i.postimg.cc/yNz47THq/Germoglio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Germoglio",
+    "type": "Pedina",
+    "cost": 0,
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK-P03": {
+    "id": "MB-SHK-03",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Pixie",
+        "type": "Pedina",
+        "cost": 0,
+        "image": "https://i.postimg.cc/3wH53ZTK/Pixie.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pixie",
+    "type": "Pedina",
+    "cost": 0,
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-SHK-P04": {
+    "id": "MB-SHK-04",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Dardo rovente",
+        "type": "Pedina",
+        "cost": 0,
+        "image": "https://i.postimg.cc/zf1ZqkrY/Dardo_rovente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dardo rovente",
+    "type": "Pedina",
+    "cost": 0,
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": true,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false
+  },
+  "MB-TRM01": {
+    "id": "MB-TRM01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Giovane allievo del clan",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/ZKyr681x/Giovane_alievo_del_clan.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giovane allievo del clan",
+    "type": "Unità",
+    "cost": "1",
+    "Tarim": true
+  },
+  "MB-TRM02": {
+    "id": "MB-TRM02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mitial, la borseggiatrice",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/Dwk16Whq/Mitial_la_borseggiatrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mitial, la borseggiatrice",
+    "type": "Unità",
+    "cost": "1",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM03": {
+    "id": "MB-TRM03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Esattore di teschi",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/c48QfRVc/Esattore_di_teschi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esattore di teschi",
+    "type": "Unità",
+    "cost": "1",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM04": {
+    "id": "MB-TRM04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Liam, il kunai silenzioso ",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/XYS9LZWB/Liam_il_kunai_silenzioso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Liam, il kunai silenzioso ",
+    "type": "Unità",
+    "cost": "2",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM05": {
+    "id": "MB-TRM05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neyla, doppia spada della rinascita",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/FHy3B9Fn/Neyla_doppia_spada_della_rinascita.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neyla, doppia spada della rinascita",
+    "type": "Unità",
+    "cost": "2",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM06": {
+    "id": "MB-TRM06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kumbass, stregone dell'assassinio a distanza ",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Dwk16Wh3/Kumbas.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kumbass, stregone dell'assassinio a distanza ",
+    "type": "Noovarim",
+    "cost": "2",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM07": {
+    "id": "MB-TRM07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vardock, custode del santuario delle tenebre",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/LXXP5Lty/Vardock_custode_del_santuario_delle_tenebre.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vardock, custode del santuario delle tenebre",
+    "type": "Unità",
+    "cost": "3",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM08": {
+    "id": "MB-TRM08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spadaccino ciclone di lame",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/nLT7n0DJ/Spadaccino_ciclone_di_lame.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spadaccino ciclone di lame",
+    "type": "Unità",
+    "cost": "3",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM09": {
+    "id": "MB-TRM09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Niar, samurai leggendario ",
+        "type": "Unità",
+        "cost": "4",
+        "image": "https://i.postimg.cc/R0vKrjq8/Niar_samurai_leggendario.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Niar, samurai leggendario ",
+    "type": "Unità",
+    "cost": "4",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM10": {
+    "id": "MB-TRM10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vantaggio tattico",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/wvvNMLXm/Vantaggio_tattico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vantaggio tattico",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM11": {
+    "id": "MB-TRM11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ascesa delle tenebre",
+        "type": "Incantesimo",
+        "cost": "6",
+        "image": "https://i.postimg.cc/9Xkd48NN/Ascesa_delle_tenebre.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ascesa delle tenebre",
+    "type": "Incantesimo",
+    "cost": "6",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM12": {
+    "id": "MB-TRM12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aura venefica",
+        "type": "Pedina",
+        "cost": "1",
+        "image": "https://i.postimg.cc/tCVhF3L3/Aura_venefica.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aura venefica",
+    "type": "Pedina",
+    "cost": "1",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM13": {
+    "id": "MB-TRM13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lame di tenebra",
+        "type": "Pedina",
+        "cost": "1",
+        "image": "https://i.postimg.cc/rwX5jdTm/Lame_di_tenebra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lame di tenebra",
+    "type": "Pedina",
+    "cost": "1",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM14": {
+    "id": "MB-TRM14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ritorno economico ",
+        "type": "Pedina",
+        "cost": "2",
+        "image": "https://i.postimg.cc/pdPzNgpV/Ritorno_economico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ritorno economico ",
+    "type": "Pedina",
+    "cost": "2",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM15": {
+    "id": "MB-TRM15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aracnide sabotatrice",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/7605f9CQ/Aracnide_sabotatrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aracnide sabotatrice",
+    "type": "Unità",
+    "cost": "1",
+    "Tarim": true
+  },
+  "MB-TRM16": {
+    "id": "MB-TRM16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sila ricognitrice",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/J08GJXZm/Sila_ricognitrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sila ricognitrice",
+    "type": "Unità",
+    "cost": "1",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM17": {
+    "id": "MB-TRM17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tarantola segugio",
+        "type": "Unità",
+        "cost": "https://i.postimg.cc/T1xpmbgw/Tarantola_segugio.png",
+        "image": "https://i.postimg.cc/T1xpmbgw/Tarantola_segugio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tarantola segugio",
+    "type": "Unità",
+    "cost": "2",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM18": {
+    "id": "MB-TRM18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draghetto della penombra",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/zBKyV7Lx/Draghetto_della_penombra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draghetto della penombra",
+    "type": "Unità",
+    "cost": "3",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM19": {
+    "id": "MB-TRM19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vartex, il tessitenenbre",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/VvF5FNWr/Vatrex_il_tessitenebre.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vartex, il tessitenenbre",
+    "type": "Unità",
+    "cost": "3",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM20": {
+    "id": "MB-TRM20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medwin, il tiratore diabolico",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/MHwvRBVk/Medwin_il_tiratore_diabolico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medwin, il tiratore diabolico",
+    "type": "Unità",
+    "cost": "3",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM21": {
+    "id": "MB-TRM21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kayla, lama dei tributi",
+        "type": "Unità",
+        "cost": "6",
+        "image": "https://i.postimg.cc/mk4tM9Mj/Kayla_lama_dei_tributi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kayla, lama dei tributi",
+    "type": "Unità",
+    "cost": "4",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM22": {
+    "id": "MB-TRM22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lesya, emissaria degli intrighi segreti",
+        "type": "Unità",
+        "cost": "6",
+        "image": "https://i.postimg.cc/Bb3XDFDy/Lesya_emissaria_degli_intrighi_segreti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lesya, emissaria degli intrighi segreti",
+    "type": "Unità",
+    "cost": "6",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM23": {
+    "id": "MB-TRM23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manovra strategica",
+        "type": "Incantesimo",
+        "cost": "1",
+        "image": "https://i.postimg.cc/hvnfxmTW/Manovra_strategica.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manovra strategica",
+    "type": "Incantesimo",
+    "cost": "1",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM24": {
+    "id": "MB-TRM24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Simulacro dell'omicidio",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/rs9z9pNq/Simulacro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Simulacro dell'omicidio",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM25": {
+    "id": "MB-TRM25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tela di Lesya",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/90BzBfYW/Tela_di_Lesya.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tela di Lesya",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM26": {
+    "id": "MB-TRM26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estorsione",
+        "type": "Sortilegio",
+        "cost": "0",
+        "image": "https://i.postimg.cc/63n8yc7z/Estorsione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estorsione",
+    "type": "Sortilegio",
+    "cost": "0",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM27": {
+    "id": "MB-TRM27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trattativa ingannevole",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/kGyDy5vd/Trattativa.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trattativa ingannevole",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM28": {
+    "id": "MB-TRM28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Oscurità deviante",
+        "type": "Pedina",
+        "cost": "2",
+        "image": "https://i.postimg.cc/ZnmC3Npz/Oscurità_deviante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Oscurità deviante",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Tarim": true,
+    "Shekai": false
+  },
+  "MB-TRM-P01": {
+    "id": "MB-TRM-P01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Esecutore ombra",
+        "type": "Pedina",
+        "cost": 0,
+        "image": "https://i.postimg.cc/Zq3bcRTJ/Esecutore_ombra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esecutore ombra",
+    "type": "Pedina",
+    "cost": 0,
+    "Tarim": true,
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Shekai": false
+  },
+  "MB-MRK-P02": {
+    "id": "MB-MRK-P02",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Riunione del clan",
+        "type": "Pedina",
+        "cost": "0",
+        "image": "https://i.postimg.cc/mrMLwDbG/Riunione_del_clan.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Riunione del clan",
+    "type": false,
+    "cost": "3",
+    "Tarim": true,
+    "Valok": false,
+    "Neshar": false,
+    "Xorak": false,
+    "Moraki": false,
+    "Shekai": false
+  },
+  "MB-VLK01": {
+    "id": "MB-VLK01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Granchio sciabola",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/g03S49Qg/Granchio-sciabola.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Granchio sciabola",
+    "type": "Unità",
+    "cost": "1",
+    "Valok": true
+  },
+  "MB-VLK02": {
+    "id": "MB-VLK02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pesce aculeo",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/CKbPJy9x/Pesce-aculeo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pesce aculeo",
+    "type": "Unità",
+    "cost": "1",
+    "Valok": true
+  },
+  "MB-VLK03": {
+    "id": "MB-VLK03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Studioso del Frangiflutti corallino",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/MTxsFP86/Studioso-del-Frangiflutti-corallino.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Studioso del Frangiflutti corallino",
+    "type": "Unità",
+    "cost": "1",
+    "Valok": true
+  },
+  "MB-VLK04": {
+    "id": "MB-VLK04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cambusiere dell'inquisitrice blu",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/13k7pRCG/Cambusiere-dell-Inquisitrice-blu.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cambusiere dell'inquisitrice blu ",
+    "type": "Unità",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK05": {
+    "id": "MB-VLK05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medusa Incantatrice",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/g03S491J/Medusa-Incantatrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medusa Incantatrice",
+    "type": "Unità",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK06": {
+    "id": "https://media.discordapp.net/attachments/1462109967095169084/1462111656791248907/Draghetto_pescatore.png?ex=696d0117&is=696baf97&hm=824ffb99173632e1e40ab2b3a12539ee028ae7b51d9f71023892d7e4846c4951&=&format=webp&quality=lossless&width=608&height=859",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draghetto pescatore",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/3xsfgrSn/Draghetto-pescatore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draghetto pescatore",
+    "type": "Unità",
+    "cost": "3",
+    "Valok": true
+  },
+  "MB-VLK07": {
+    "id": "MB-VLK07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noky, il turba riflessi",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/1tPWjCZZ/Noky-il-turba-riflessi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noky, il turba riflessi",
+    "type": "Unità",
+    "cost": "3",
+    "Valok": true
+  },
+  "MB-VLK08": {
+    "id": "MB-VLK08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elial, Arcimago tsunami",
+        "type": "Unità",
+        "cost": "4",
+        "image": "https://i.postimg.cc/cLpkQ19k/Elial-Arcimago-tsunami.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elial, Arcimago tsunami",
+    "type": "Unità",
+    "cost": "4",
+    "Valok": true
+  },
+  "MB-VLK09": {
+    "id": "MB-VLK09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tiamat, Regina primordiale degli oceani",
+        "type": "Unità",
+        "cost": "5",
+        "image": "https://i.postimg.cc/MpMrMfDv/Tiamat-Regina-primordiale-degli-oceani.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tiamat, Regina primordiale degli oceani",
+    "type": "Unità",
+    "cost": "5",
+    "Valok": true
+  },
+  "MB-VLK10": {
+    "id": "MB-VLK10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alta marea",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/htz3zQrz/Alta-marea.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alta marea",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK11": {
+    "id": "MB-VLK11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bassa marea",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/kg6h6Rc5/Bassa-marea.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bassa marea",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK12": {
+    "id": "MB-VLK12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battuta di pesca",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/y8grg3Px/Battuta-di-pesca.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battuta di pesca",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Valok": true
+  },
+  "MB-VLK14": {
+    "id": "MB-VLK13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fuoco di sbarramento",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/MpC3yZPr/Fuoco-di-sbarramento.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fuoco di sbarramento",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK13": {
+    "id": "MB-VLK13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tariffa dei lupi di mare",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/qR0m5bd7/Tariffa-dei-lupi-di-mare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tariffa dei lupi di mare",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Valok": true
+  },
+  "MB-VLK15": {
+    "id": "MB-VLK15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cannoniere dell'inquisitrice blu",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/6pvY5JWv/Cannoniere-dell-inquisitrice-blu.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cannoniere dell'inquisitrice blu",
+    "type": "Unità",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK16": {
+    "id": "MB-VLK16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fendi Nuvole",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Dz35Sj0D/Fendi-nuvole.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fendi nuvole",
+    "type": "Unità",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK17": {
+    "id": "MB-VLK17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lanternaio dei fondali",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/x1jYmRZK/Lanternaio-dei-fondali.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lanternaio dei fondali",
+    "type": "Unità",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK 18": {
+    "id": "MB-VLK 18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pinna alabarda",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/J4vvrQLb/Pinna-alabarda.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pinna alabarda",
+    "type": "Unità",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK20": {
+    "id": "MB-VLK19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Delph il quartiermastro irrascibile",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/htdpPWDJ/Delph-il-quartiermastro-irrascibile.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Delph il quartiermastro irrascibile",
+    "type": "Unità",
+    "cost": "3",
+    "Valok": true
+  },
+  "MB-VLK22": {
+    "id": "MB-VLK22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frangiflutti corallino",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/1z0BwGV7/Frangiflutti-corallino.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frangiflutti corallino",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK24": {
+    "id": "MB-VLK21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Malia dei venti",
+        "type": "Incantesimo",
+        "cost": "1",
+        "image": "https://i.postimg.cc/mDbwwPQL/Malia-dei-venti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Malia dei venti",
+    "type": "Incantesimo",
+    "cost": "1",
+    "Valok": true
+  },
+  "MB-VLK23": {
+    "id": "MB-VLK23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Il Leviatano",
+        "type": "Unità",
+        "cost": "7",
+        "image": "https://i.postimg.cc/L4PW81xs/Il-Leviatano.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Il Leviatano",
+    "type": "Unità",
+    "cost": "7",
+    "Valok": true
+  },
+  "MB-VLK26": {
+    "id": "MB-VLK24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Commercio marittimo",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/L81N6K9Y/Commercio-marittimo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Commercio marittimo",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK19": {
+    "id": "MB-VLK19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Timoniere della 3° brigata",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/cHXc5dmM/Timoniere-3-brigata.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Timoniere della 3° brigata",
+    "type": "Unità",
+    "cost": "3",
+    "Valok": true
+  },
+  "MB-VLK21": {
+    "id": "MB-VLK21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rancof, Battivento occhi blu",
+        "type": "Unità",
+        "cost": "4",
+        "image": "https://i.postimg.cc/Y9p33v1b/Rancof-Battivento-occhi-blu.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rancof, Battivento occhi blu",
+    "type": "Unità",
+    "cost": "4",
+    "Valok": true
+  },
+  "MB-VLK25": {
+    "id": "MB-VLK25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vortice oceanico",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/x1ztTDfb/Vortice-oceanico.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vortice oceanico",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Valok": true
+  },
+  "MB-VLK27": {
+    "id": "MB-VLK27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Richiamo del Frangiflutti corallino",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/zB0kPqjn/Richiamo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Richiamo del Frangiflutti corallino",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Valok": true
+  },
+  "MB-VLK-P01": {
+    "id": "MB-VLK-P01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Spiritello delle onde",
+        "type": "Pedina",
+        "cost": "1",
+        "image": "https://i.postimg.cc/fbxsdrKc/Spiritello-delle-onde.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spiritello delle onde",
+    "type": "Pedina",
+    "cost": "1",
+    "Valok": true
+  },
+  "MB-XRK01": {
+    "id": "MB-XRK01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chelone, guardiano della brace sacra",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/PJDQf1ht/Chelone-guardiano-della-brace-sacra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chelone, guardiano della brace sacra",
+    "type": "Unità",
+    "cost": "1",
+    "Xorak": true
+  },
+  "MB-XRK02": {
+    "id": "MB-XRK02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corridore squamato",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/hPF0yZbF/Corridore-squamato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corridore squamato",
+    "type": "Unità",
+    "cost": "1",
+    "Xorak": true
+  },
+  "MB-XRK03": {
+    "id": "MB-XRK03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cultista della brace",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/DyqPtQB2/Cultista-della-brace.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cultista della brace",
+    "type": "Unità",
+    "cost": "1",
+    "Xorak": true
+  },
+  "MB-XRK04": {
+    "id": "MB-XRK04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucertola razzo",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Hkz4LYG8/Lucertola-razzo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucertola razzo",
+    "type": "Unità",
+    "cost": "2",
+    "Xorak": true
+  },
+  "MB-XRK05": {
+    "id": "MB-XRK05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ednar, il cavalca draghi",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/hP91H8pv/Ednar-il-calvaca-draghi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ednar, il cavalca draghi",
+    "type": "Unità",
+    "cost": "3",
+    "Xorak": true
+  },
+  "MB-XRK06": {
+    "id": "MB-XRK06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Milite idra",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/Hkz4LYG5/Milite-idra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Milite idra",
+    "type": "Unità",
+    "cost": "3",
+    "Xorak": true
+  },
+  "MB-XRK07": {
+    "id": "MB-XRK07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Balysia, il generale dell'armata rovente",
+        "type": "Unità",
+        "cost": "4",
+        "image": "https://i.postimg.cc/ZnNxY6ZZ/Balysia-il-generale-dell-armata-rovente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Balysia, il generale dell'armata rovente",
+    "type": "Unità",
+    "cost": "4",
+    "Xorak": true
+  },
+  "MB-XRK08": {
+    "id": "MB-XRK08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sahtra, la progenitrice di fiamme",
+        "type": "Unità",
+        "cost": "5",
+        "image": "https://i.postimg.cc/q77chP0s/Santuario-della-brace-sacra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sahtra, la progenitrice di fiamme",
+    "type": "Unità",
+    "cost": "5",
+    "Xorak": true
+  },
+  "MB-XRK09": {
+    "id": "MB-XRK09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Santuario della brace sacra",
+        "type": "Incantesimo",
+        "cost": "1",
+        "image": "https://i.postimg.cc/q77chP0s/Santuario-della-brace-sacra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Santuario della brace sacra",
+    "type": "Incantesimo",
+    "cost": "1",
+    "Xorak": true
+  },
+  "MB-XRK11": {
+    "id": "MB-XRK10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Consacrazione",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/C58sMbYM/Consacrazione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Consacrazione",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Xorak": true
+  },
+  "MB-XRK12": {
+    "id": "MB-XRK11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Liturgia della brace",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/DwnPFWMN/Liturgia-della-brace.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Liturgia della brace",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Xorak": true
+  },
+  "MB-XRK13": {
+    "id": "MB-XRK12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spuntino rovente",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/k55N609z/Spuntino-rovente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spuntino rovente",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Xorak": true
+  },
+  "MB-XRK14": {
+    "id": "MB-XRK13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Immolazione spirituale",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/xTK3WGtj/Immolazione-spirituale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Immolazione spirituale",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Xorak": true
+  },
+  "MB-XRK10": {
+    "id": "MB-XRK10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Camera magmatica",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/d3CjQGv0/Camera-magmatica.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Camera magmatica",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Xorak": true
+  },
+  "MB-XRK15": {
+    "id": "MB-XRK15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Syltra, sospiro di fumo",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/ZYLq2C6m/Syltra-sospiro-di-fumo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Syltra, sospiro di fumo",
+    "type": "Unità",
+    "cost": "1",
+    "Xorak": true
+  },
+  "MB-XRK16": {
+    "id": "MB-XRK16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zyphor, custode dei sotterranei lavici",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/ry9p3K5F/Zyphor-custode-dei-sotterranei-lavici.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zyphor, custode dei sotterranei lavici",
+    "type": "Unità",
+    "cost": "2",
+    "Xorak": true
+  },
+  "MB-XRK17": {
+    "id": "MB-XRK17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draghetto porta stendardo",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/W3G424KZ/Draghetto-porta-stendardo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draghetto porta stendardo",
+    "type": "Unità",
+    "cost": "2",
+    "Xorak": true
+  },
+  "MB-XRK18": {
+    "id": "MB-XRK18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spiritello della colata",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/Y2xSZhQH/Spiritello-della-colata.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spiritello della colata",
+    "type": "Unità",
+    "cost": "3",
+    "Xorak": true
+  },
+  "MB-XRK19": {
+    "id": "MB-XRK19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kamurd, armaiolo pelle a scaglie",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/C5wxdgpx/Kamurd-armaiolo-pelle-a-scaglie.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kamurd, armaiolo pelle a scaglie",
+    "type": "Unità",
+    "cost": "3",
+    "Xorak": true
+  },
+  "MB-XRK20": {
+    "id": "MB-XRK20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kethra, eremita delle braci sacre",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/90cQzhH2/Kethra-eremita-delle-braci-sacre.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kethra, eremita delle braci sacre",
+    "type": "Unità",
+    "cost": "3",
+    "Xorak": true
+  },
+  "MB-XRK21": {
+    "id": "MB-XRK21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morvak, sacerdotessa dell'armata rovente",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/nrTcDPnS/Morvak-sacerdotessa-dell-armata-rovente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morvak, sacerdotessa dell'armata rovente",
+    "type": "Unità",
+    "cost": "3",
+    "Xorak": true
+  },
+  "MB-XRK22": {
+    "id": "MB-XRK22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drathar, sovrano delle ceneri",
+        "type": "Unità",
+        "cost": "8",
+        "image": "https://i.postimg.cc/XJfvVvhC/Drathar-sovrano-delle-ceneri.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drathar, sovrano delle ceneri",
+    "type": "Unità",
+    "cost": "8",
+    "Xorak": true
+  },
+  "MB-XRK23": {
+    "id": "MB-XRK23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Murdak, tempio della Muraglia errante",
+        "type": "Incantesimo",
+        "cost": "3",
+        "image": "https://i.postimg.cc/nV1LgCqb/Murdak-tempio-della-Muraglia-errante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Murdak, tempio della Muraglia errante",
+    "type": "Incantesimo",
+    "cost": "3",
+    "Xorak": true
+  },
+  "MB-XRK24": {
+    "id": "MB-XRK24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aralet, tempio della Volta celeste",
+        "type": "Incantesimo",
+        "cost": "3",
+        "image": "https://i.postimg.cc/G2w2wDMQ/Aralet-tempio-della-Volta-celeste.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aralet, tempio della Volta celeste",
+    "type": "Incantesimo",
+    "cost": "3",
+    "Xorak": true
+  },
+  "MB-XRK25": {
+    "id": "MB-XRK25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flamerod, tempio della Brace perpetua",
+        "type": "Incantesimo",
+        "cost": "3",
+        "image": "https://i.postimg.cc/hjLGSGwk/Flamerod-tempio-della-Brace-perpetua.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flamerod, tempio della Brace perpetua",
+    "type": "Incantesimo",
+    "cost": "3",
+    "Xorak": true
+  },
+  "MB-XRK26": {
+    "id": "MB-XRK26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Itmun, tempio della Lacrima Redentrice",
+        "type": "Incantesimo",
+        "cost": "3",
+        "image": "https://i.postimg.cc/tJ947jGQ/Itmun-tempio-della-Lacrima-Redentrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Itmun, tempio della Lacrima Redentrice",
+    "type": "Incantesimo",
+    "cost": "3",
+    "Xorak": true
+  },
+  "MB-XRK27": {
+    "id": "MB-XRK27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battito di drago",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/63rQ9QSV/Battito-di-drago.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battito di drago",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Xorak": true
+  },
+  "MB-XRK28": {
+    "id": "MB-XRK28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lacrima dragonica",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/qqQM35pM/Lacrima-dragonica.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lacrima dragonica",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Xorak": true
+  },
+  "MB-XRK-P01": {
+    "id": "MB-XRK-P01",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Testa d'Idra",
+        "type": "Pedina",
+        "cost": "0",
+        "image": "https://i.postimg.cc/cLv4vh2h/Testa-d-idra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Testa d'Idra",
+    "type": "Pedina",
+    "cost": "0",
+    "Xorak": true
+  },
+  "MB-XRK-P02": {
+    "id": "MB-XRK-P02",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Efiro, l'imperatore della volta celeste",
+        "type": "Pedina",
+        "cost": "5",
+        "image": "https://i.postimg.cc/t4sCskwt/Efiro-l-imperatore-della-volta-celeste.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Efiro, l'imperatore della volta celeste",
+    "type": "Pedina",
+    "cost": "5",
+    "Xorak": true
+  },
+  "MB-XRK-P03": {
+    "id": "MB-XRK-P03",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Nahara, custode della muraglia errante",
+        "type": "Pedina",
+        "cost": "5",
+        "image": "https://i.postimg.cc/sgMDMmqc/Nahara-custode-della-muraglia-errante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nahara, custode della muraglia errante",
+    "type": "Pedina",
+    "cost": "5",
+    "Xorak": true
+  },
+  "MB-XRK-P04": {
+    "id": "MB-XRK-P04",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Phyro, drago bruciamondi",
+        "type": "Pedina",
+        "cost": "5",
+        "image": "https://i.postimg.cc/y8DYDjtT/Phyro-drago-bruciamondi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phyro, drago bruciamondi",
+    "type": "Pedina",
+    "cost": "5",
+    "Xorak": true
+  },
+  "MB-XRK-P05": {
+    "id": "MB-XRK-P05",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Thara, apostolo della lacrima redentrice",
+        "type": "Pedina",
+        "cost": "5",
+        "image": "https://i.postimg.cc/g21c8RbH/Thara-apostolo-della-lacrima-redentrice.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thara, apostolo della lacrima redentrice",
+    "type": "Pedina",
+    "cost": "5",
+    "Xorak": true
+  },
+  "MB-NTR01": {
+    "id": "MB-NTR01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ladruncolo",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/R0cmtDR5/Ladruncolo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ladruncolo",
+    "type": "Unità",
+    "cost": "1",
+    "Neutrale": true
+  },
+  "MB-NTR02": {
+    "id": "MB-NTR02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moschettiere galante",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/QCMZRxrX/Moschettiere-galante.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moschettiere galante",
+    "type": "Unità",
+    "cost": "2",
+    "Neutrale": true
+  },
+  "MB-NTR03": {
+    "id": "MB-NTR03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cerbero guardiano",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/N0hY5c1h/Cerbero-guardiano.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cerbero guardiano",
+    "type": "Unità",
+    "cost": "3",
+    "Neutrale": true
+  },
+  "MB-NTR04": {
+    "id": "MB-NTR04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Divinatore menzognero",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/JhwmGLb4/Divinatore-menzognero.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Divinatore menzognero",
+    "type": "Unità",
+    "cost": "3",
+    "Neutrale": true
+  },
+  "MB-NTR05": {
+    "id": "MB-NTR05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Micelio corrodispirito",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/26GfcLMX/Micelio-corrodispirito.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Micelio corrodispirito",
+    "type": "Unità",
+    "cost": "3",
+    "Neutrale": true
+  },
+  "MB-NTR06": {
+    "id": "MB-NTR06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Selene, dragone delle fasi lunari",
+        "type": "Unità",
+        "cost": "5",
+        "image": "https://i.postimg.cc/5ytWZNMN/Selene.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Selene, dragone delle fasi lunari",
+    "type": "Unità",
+    "cost": "5",
+    "Neutrale": true
+  },
+  "MB-NTR07": {
+    "id": "MB-NTR07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Incanto lunare",
+        "type": "Incantesimo",
+        "cost": "2",
+        "image": "https://i.postimg.cc/LsdRnpzH/Incanto-lunare.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Incanto lunare",
+    "type": "Incantesimo",
+    "cost": "2",
+    "Neutrale": true
+  },
+  "MB-NTR08": {
+    "id": "MB-NTR08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tribunale delle anime",
+        "type": "Incantesimo",
+        "cost": "3",
+        "image": "https://i.postimg.cc/3NbQ75Kp/Tribunale-delle-anime.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tribunale delle anime",
+    "type": "Incantesimo",
+    "cost": "3",
+    "Neutrale": true
+  },
+  "MB-NTR09": {
+    "id": "MB-NTR09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soppressione",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/j2jYGdrf/soppressione.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soppressione",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Neutrale": true
+  },
+  "MB-NTR10": {
+    "id": "MB-NTR10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scambio d'intenti",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/HxzCZ8Fn/Scambio-di-intenti.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scambio d'intenti",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Neutrale": true
+  },
+  "MB-NTR00": {
+    "id": "MB-NTR00",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Mana etereo",
+        "type": "Pedina",
+        "cost": "0",
+        "image": "https://i.postimg.cc/VLS3Mhsc/mana-etereo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mana etereo",
+    "type": "Pedina",
+    "cost": 0,
+    "Neutrale": true
+  }
+}
