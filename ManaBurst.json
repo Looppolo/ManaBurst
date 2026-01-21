@@ -37,7 +37,7 @@
     ]
   },
   "gameplay": {
-    "62fa1b1e-1154-42ba-84a6-bf72647dcf05": {
+    "Standard": {
       "mulligan": {
         "info": "",
         "startingHandSize": "6",
