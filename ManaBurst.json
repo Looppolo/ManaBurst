@@ -1,0 +1,225 @@
+{
+  "name": "ManaBurst",
+  "menuBackgroundImage": "https://i.postimg.cc/d1hPHwkg/immagine_copertina.jpg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://i.postimg.cc/zXCCbh2H/Moraki1.jpg",
+      "https://i.postimg.cc/qMsshKDC/Neshar1.jpg",
+      "https://i.postimg.cc/8PRRJvXz/Shekai1.jpg",
+      "https://i.postimg.cc/3JXX4Gfy/Tarim1.jpg",
+      "https://i.postimg.cc/9QcGGfsQ/Valok1.jpg",
+      "https://i.postimg.cc/0y9ppNhz/Xorak1.jpg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://github.com/Looppolo/ManaBurst/blob/main/MB_CardList.json",
+    "cardBack": "https://i.postimg.cc/2SqYT6zx/back.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Moraki",
+      "Neshar",
+      "Shekai",
+      "Tarim",
+      "Valok",
+      "Xorak",
+      "Neutrali"
+    ],
+    "formats": []
+  },
+  "gameplay": {
+    "62fa1b1e-1154-42ba-84a6-bf72647dcf05": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "6",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": true,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "2"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "2"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Zona sigilli",
+          "Fila d'assalto",
+          "Fila tattica",
+          "Fila di guardia"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Fila d'assalto",
+                  "style": {
+                    "height": "25%"
+                  }
+                },
+                {
+                  "section": "Fila tattica",
+                  "style": {
+                    "height": "25%"
+                  }
+                },
+                {
+                  "section": "Fila di guardia",
+                  "style": {
+                    "height": "25%"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": true
+            },
+            {
+              "direction": "row",
+              "style": {
+                "height": "25%"
+              },
+              "content": [
+                {
+                  "section": "cimitero",
+                  "style": {
+                    "width": "10%"
+                  }
+                },
+                {
+                  "section": "Zona sigilli",
+                  "style": {
+                    "width": "90%"
+                  }
+                },
+                {
+                  "section": "Nucleo",
+                  "style": {
+                    "width": "10%"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": true
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Nucleo"
+        ],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Zona sigilli": {
+            "title": "Zona sigilli",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Fila tattica": {
+            "title": "Fila tattica",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Fila d'assalto": {
+            "title": "New_Section",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Fila di guardia": {
+            "title": "Fila di guardia",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Nucleo": {
+            "title": "Nucleo",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Cimitero": {
+            "title": "Cimitero",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
