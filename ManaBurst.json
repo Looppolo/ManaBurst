@@ -92,33 +92,6 @@
                 }
               ],
               "isSymetricalForOpponents": true
-            },
-            {
-              "direction": "row",
-              "style": {
-                "height": "25%"
-              },
-              "content": [
-                {
-                  "section": "cimitero",
-                  "style": {
-                    "width": "10%"
-                  }
-                },
-                {
-                  "section": "Zona sigilli",
-                  "style": {
-                    "width": "90%"
-                  }
-                },
-                {
-                  "section": "Nucleo",
-                  "style": {
-                    "width": "10%"
-                  }
-                }
-              ],
-              "isSymetricalForOpponents": true
             }
           ]
         },
