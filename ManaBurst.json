@@ -15,7 +15,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://github.com/Looppolo/ManaBurst/MB_CardList.json",
+    "dataUrl": "https://looppolo.github.io/ManaBurst/ManaBurst.json",
     "cardBack": "https://i.postimg.cc/2SqYT6zx/back.png"
   },
   "deckBuilding": {
