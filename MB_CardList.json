@@ -1323,7 +1323,7 @@
     "Valok": false,
     "Xorak": false
   },
-    "MB-SHK01": {
+  "MB-SHK01": {
     "id": "MB-SHK01",
     "isToken": false,
     "face": {
@@ -3326,7 +3326,7 @@
         "name": "Sahtra, la progenitrice di fiamme",
         "type": "Unità",
         "cost": "5",
-        "image": "https://i.postimg.cc/q77chP0s/Santuario-della-brace-sacra.png",
+        "image": "https://i.postimg.cc/hGG8zkgj/Sahtra_la_progenitrice_di_fiamme.png",
         "isHorizontal": false
       }
     },
