@@ -28,7 +28,13 @@
       "Xorak",
       "Neutrali"
     ],
-    "formats": []
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Standard",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "62fa1b1e-1154-42ba-84a6-bf72647dcf05": {
