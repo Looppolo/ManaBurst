@@ -13,7 +13,7 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": 45,
+  "cardRotation": "90",
   "cards": {
     "dataUrl": "https://looppolo.github.io/ManaBurst/MB_CardList.json",
     "cardBack": "https://i.postimg.cc/2SqYT6zx/back.png"
@@ -54,7 +54,7 @@
       "defaultNotes": "",
       "tokens": [],
       "countersStartingValues": [
-        "2"
+        "20"
       ],
       "hideFacedDownCards": false,
       "sections": {
@@ -65,33 +65,39 @@
           "Fila di guardia"
         ],
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "isSymetricalForOpponents": true,
           "content": [
+            {
+              "section": "5",
+              "style": {
+                "width": "30%"
+              }
+            },
             {
               "direction": "column",
               "style": false,
               "content": [
                 {
-                  "section": "Fila d'assalto",
+                  "section": "1",
                   "style": {
-                    "height": "25%"
+                    "width": "95%"
                   }
                 },
                 {
-                  "section": "Fila tattica",
+                  "section": "2",
                   "style": {
-                    "height": "25%"
+                    "width": "95%"
                   }
                 },
                 {
-                  "section": "Fila di guardia",
+                  "section": "3",
                   "style": {
-                    "height": "25%"
+                    "width": "95%"
                   }
                 }
               ],
-              "isSymetricalForOpponents": true
+              "isSymetricalForOpponents": false
             }
           ]
         },
@@ -101,14 +107,14 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Zona sigilli": {
-            "title": "Zona sigilli",
+          "1": {
+            "title": "Fila d'assalto",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
@@ -117,7 +123,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Fila tattica": {
+          "2": {
             "title": "Fila tattica",
             "isHidden": "no",
             "height": "SMALL",
@@ -133,23 +139,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Fila d'assalto": {
-            "title": "New_Section",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Fila di guardia": {
+          "3": {
             "title": "Fila di guardia",
             "isHidden": "no",
             "height": "SMALL",
@@ -165,11 +155,11 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Nucleo": {
-            "title": "Nucleo",
+          "4": {
+            "title": "Cimitero",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
@@ -181,11 +171,27 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Cimitero": {
-            "title": "Cimitero",
+          "5": {
+            "title": "Zona sigilli",
+            "isHidden": "no",
+            "height": "BIG",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "6": {
+            "title": "Nucleo",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
