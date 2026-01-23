@@ -97,7 +97,7 @@
                   }
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             }
           ]
         },
@@ -115,7 +115,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Fila d'assalto",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -131,7 +131,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Fila tattica",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -147,23 +147,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "4": {
-            "title": "Cimitero",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "END",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Fila di guardia",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -179,7 +163,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "Zona sigilli",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
