@@ -91,7 +91,7 @@
                   "style": false
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             }
           ]
         },
