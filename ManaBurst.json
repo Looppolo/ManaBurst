@@ -70,9 +70,7 @@
           "content": [
             {
               "direction": "column",
-              "style": {
-                "width": "60%"
-              },
+              "style": false,
               "content": [
                 {
                   "section": "Fila d'assalto",
@@ -95,9 +93,7 @@
               "content": [
                 {
                   "section": "Zona sigilli",
-                  "style": {
-                    "width": "40%"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
