@@ -492,25 +492,6 @@
     "cost": "1",
     "Moraki": true
   },
-  "MB-NSR01": {
-    "id": "MB-NSR01",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Costrutto Guardiano",
-        "type": "Unità",
-        "cost": "1",
-        "image": "https://i.postimg.cc/Gmh5cSBp/Costrutto_guardiano.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Costrutto Guardiano",
-    "type": "Unità",
-    "cost": "1",
-    "": "",
-    "Neutrale": false,
-    "Neshar": true
-  },
   "MB-NSR02": {
     "id": "MB-SNR02",
     "isToken": false,
@@ -3046,20 +3027,20 @@
     "cost": "3",
     "Valok": true
   },
-  "MB-VLK22": {
-    "id": "MB-VLK22",
+  "MB-VLK27": {
+    "id": "MB-VLK27",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Frangiflutti corallino",
-        "type": "Incantesimo",
+        "name": "Richiamo del Frangiflutti corallino",
+        "type": "Sortilegio",
         "cost": "2",
-        "image": "https://i.postimg.cc/1z0BwGV7/Frangiflutti-corallino.png",
+        "image": "https://i.postimg.cc/zB0kPqjn/Richiamo.png",
         "isHorizontal": false
       }
     },
-    "name": "Frangiflutti corallino",
-    "type": "Incantesimo",
+    "name": "Richiamo del Frangiflutti corallino",
+    "type": "Sortilegio",
     "cost": "2",
     "Valok": true
   },
@@ -3148,7 +3129,7 @@
     "cost": "4",
     "Valok": true
   },
-  "MB-VLK25": {
+  "MB-VLK28": {
     "id": "MB-VLK25",
     "isToken": false,
     "face": {
@@ -3163,23 +3144,6 @@
     "name": "Vortice oceanico",
     "type": "Sortilegio",
     "cost": "1",
-    "Valok": true
-  },
-  "MB-VLK27": {
-    "id": "MB-VLK27",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Richiamo del Frangiflutti corallino",
-        "type": "Sortilegio",
-        "cost": "2",
-        "image": "https://i.postimg.cc/zB0kPqjn/Richiamo.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Richiamo del Frangiflutti corallino",
-    "type": "Sortilegio",
-    "cost": "2",
     "Valok": true
   },
   "MB-VLK-P01": {
@@ -3946,5 +3910,53 @@
     "type": "Pedina",
     "cost": 0,
     "Neutrale": true
+  },
+  "MB-VLK25": {
+    "id": "MB-VLK25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kraken",
+        "type": "Unità",
+        "cost": "5",
+        "image": "https://i.postimg.cc/FKXGYW1t/Kraken.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kraken",
+    "type": "Unità",
+    "cost": "5",
+    "Moraki": false,
+    "": "",
+    "Neutrale": false,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": true,
+    "Xorak": false
+  },
+  "MB-NSR01": {
+    "id": "MB-NSR01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Costrutto guardiano",
+        "type": "Unità",
+        "cost": "1",
+        "image": "https://i.postimg.cc/Gmh5cSBp/Costrutto_guardiano.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Costrutto guardiano",
+    "type": "Unità",
+    "cost": "1",
+    "Moraki": false,
+    "": "",
+    "Neutrale": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false
   }
 }
