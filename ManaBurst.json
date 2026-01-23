@@ -62,9 +62,9 @@
           "Zona sigilli",
           "Fila d'assalto",
           "Fila tattica",
-          "Fila di guardia",
-          "Noovarim",
-          "Pedine"
+          "Fila di guardia"
+          
+        
         ],
         "layout": {
           "direction": "row",
