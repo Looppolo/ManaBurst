@@ -69,22 +69,9 @@
           "isSymetricalForOpponents": true,
           "content": [
             {
-              "direction": "row",
-              "style": false,
-              "content": [
-                {
-                  "section": "Zona sigilli",
-                  "style": {
-                    "width": "%"
-                  }
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
               "direction": "column",
               "style": {
-                "width": "100%"
+                "width": "70%"
               },
               "content": [
                 {
@@ -98,6 +85,19 @@
                 {
                   "section": "Fila di guardia",
                   "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Zona sigilli",
+                  "style": {
+                    "width": "30%"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -159,7 +159,7 @@
           "Zona sigilli": {
             "title": "Zona sigilli",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
