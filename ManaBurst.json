@@ -272,7 +272,7 @@
             "title": "Zona sigilli",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "END",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
