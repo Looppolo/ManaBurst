@@ -69,12 +69,6 @@
           "isSymetricalForOpponents": true,
           "content": [
             {
-              "section": "5",
-              "style": {
-                "width": "30%"
-              }
-            },
-            {
               "direction": "column",
               "style": false,
               "content": [
@@ -98,6 +92,31 @@
                 }
               ],
               "isSymetricalForOpponents": true
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "5",
+                  "style": {
+                    "width": "30%"
+                  }
+                },
+                {
+                  "section": "7",
+                  "style": {
+                    "width": "10%"
+                  }
+                },
+                {
+                  "section": "6",
+                  "style": {
+                    "width": "10%"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
@@ -110,7 +129,7 @@
           "1": {
             "title": "Fila d'assalto",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -126,7 +145,7 @@
           "2": {
             "title": "Fila tattica",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -142,7 +161,7 @@
           "3": {
             "title": "Fila di guardia",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -158,12 +177,44 @@
           "5": {
             "title": "Zona sigilli",
             "isHidden": "no",
-            "height": "BIG",
-            "alignment": "CENTER",
+            "height": "MEDIUM",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Zona sigilli",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "6": {
+            "title": "Nucleo",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "END",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Nucleo",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "7": {
+            "title": "Cimitero",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Cimitero",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
