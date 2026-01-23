@@ -62,7 +62,9 @@
           "Zona sigilli",
           "Fila d'assalto",
           "Fila tattica",
-          "Fila di guardia"
+          "Fila di guardia",
+          "Nucleo",
+          "Cimitero"
         ],
         "layout": {
           "direction": "row",
