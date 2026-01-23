@@ -152,23 +152,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Exile": {
-            "isDefaultSection": true,
-            "title": "Exile",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "displayedTitle": "Removed",
-            "opponentAlignment": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Sideboard": {
             "isDefaultSection": true,
             "title": "Sideboard",
@@ -247,23 +230,6 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Rimosse": {
-            "isDefaultSection": true,
-            "title": "ExileHidden",
-            "isHidden": "yes",
-            "height": "DEFAULT",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "noAutoPayTo": true,
-            "displayedTitle": "Removed hidden",
-            "opponentAlignment": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           }
