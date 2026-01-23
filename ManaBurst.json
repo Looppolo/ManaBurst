@@ -75,19 +75,19 @@
               "style": false,
               "content": [
                 {
-                  "section": "Fila d'assalto",
+                  "section": "1",
                   "style": {
                     "width": "95%"
                   }
                 },
                 {
-                  "section": "Fila tattica",
+                  "section": "2",
                   "style": {
                     "width": "95%"
                   }
                 },
                 {
-                  "section": "Fila di guardia",
+                  "section": "3",
                   "style": {
                     "width": "95%"
                   }
@@ -100,25 +100,25 @@
               "style": false,
               "content": [
                 {
-                  "section": "Zona dei sigilli",
+                  "section": "5",
                   "style": {
                     "width": "30%"
                   }
                 },
                 {
-                  "section": "Nucleo",
+                  "section": "7",
                   "style": {
                     "width": "10%"
                   }
                 },
                 {
-                  "section": "Cimitero",
+                  "section": "6",
                   "style": {
                     "width": "10%"
                   }
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             }
           ]
         },
@@ -128,7 +128,7 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Fila d'assalto": {
+          "1": {
             "title": "Fila d'assalto",
             "isHidden": "no",
             "height": "MEDIUM",
@@ -144,7 +144,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Fila tattica": {
+          "2": {
             "title": "Fila tattica",
             "isHidden": "no",
             "height": "MEDIUM",
@@ -160,7 +160,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Fila di guardia": {
+          "3": {
             "title": "Fila di guardia",
             "isHidden": "no",
             "height": "MEDIUM",
@@ -176,7 +176,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Zona sigilli": {
+          "5": {
             "title": "Zona sigilli",
             "isHidden": "no",
             "height": "MEDIUM",
@@ -192,7 +192,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Nucleo": {
+          "6": {
             "title": "Nucleo",
             "isHidden": "no",
             "height": "MEDIUM",
@@ -208,7 +208,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Cimitero": {
+          "7": {
             "title": "Cimitero",
             "isHidden": "no",
             "height": "MEDIUM",
