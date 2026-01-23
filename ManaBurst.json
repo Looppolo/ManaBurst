@@ -63,6 +63,8 @@
           "Fila d'assalto",
           "Fila tattica",
           "Fila di guardia"
+          "Noovarim",
+          "Pedine"
         ],
         "layout": {
           "direction": "row",
