@@ -73,19 +73,6 @@
               "style": false,
               "content": [
                 {
-                  "section": "Zona sigilli",
-                  "style": {
-                    "width": "40%"
-                  }
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": false,
-              "content": [
-                {
                   "section": "Fila d'assalto",
                   "style": false
                 },
@@ -99,6 +86,12 @@
                 }
               ],
               "isSymetricalForOpponents": false
+            },
+            {
+              "section": "Zona sigilli",
+              "style": {
+                "width": "40%"
+              }
             }
           ]
         },
@@ -279,7 +272,7 @@
             "title": "Zona sigilli",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "END",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
