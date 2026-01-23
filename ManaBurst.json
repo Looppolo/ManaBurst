@@ -73,6 +73,19 @@
               "style": false,
               "content": [
                 {
+                  "section": "Zona sigilli",
+                  "style": {
+                    "width": "40%"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
                   "section": "Fila d'assalto",
                   "style": false
                 },
@@ -82,10 +95,6 @@
                 },
                 {
                   "section": "Fila di guardia",
-                  "style": false
-                },
-                {
-                  "section": "Zona sigilli",
                   "style": false
                 }
               ],
