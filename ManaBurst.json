@@ -85,13 +85,30 @@
                   "style": false
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             },
             {
-              "section": "Zona sigilli",
+              "direction": "column",
               "style": {
-                "width": "40%"
-              }
+                "width": "35%"
+              },
+              "content": [
+                {
+                  "section": "Noovarim",
+                  "style": {
+                    "width": "15%"
+                  }
+                },
+                {
+                  "section": "Zona sigilli",
+                  "style": false
+                },
+                {
+                  "section": "Pedine",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": true
             }
           ]
         },
@@ -277,6 +294,38 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Zona sigilli",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Noovarim": {
+            "title": "Noovarim",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Pedine": {
+            "title": "New_Section",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
