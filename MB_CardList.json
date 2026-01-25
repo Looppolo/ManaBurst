@@ -143,7 +143,7 @@
         "name": "Incantesimo proibito",
         "type": "Incantesimo",
         "cost": "2",
-        "image": "https://i.postimg.cc/zG73h3Xc/Incantesimo-proibito.png",
+        "image": "https://i.postimg.cc/SQ6vpQMf/Incantesimo_proibito.png",
         "isHorizontal": false
       }
     },
@@ -262,7 +262,7 @@
         "name": "Lakarim, Iniziata del culto proibito",
         "type": "Unità",
         "cost": "1",
-        "image": "https://i.postimg.cc/sgxCn24T/Lakarim-Iniziata-del-culto-proibito.png",
+        "image": "https://i.postimg.cc/j24g6vT5/Lakarim_Iniziata_del_Culto_proibito.png",
         "isHorizontal": false
       }
     },
@@ -364,7 +364,7 @@
         "name": "Cancello dell'oblio",
         "type": "Incantesimo",
         "cost": "1",
-        "image": "https://i.postimg.cc/MKd8bBVG/Cancello-dell-oblio.png",
+        "image": "https://i.postimg.cc/0j0WGZvb/Cancello_dell_oblio.png",
         "isHorizontal": false
       }
     },
@@ -381,7 +381,7 @@
         "name": "Cerimoniale della flagellazione",
         "type": "Incantesimo",
         "cost": "1",
-        "image": "https://i.postimg.cc/7YmyMz0S/Cerimoniale-della-flagellazione.png",
+        "image": "https://i.postimg.cc/QCJ4gSDB/Cerimoniale_della_flagellazione.png",
         "isHorizontal": false
       }
     },
@@ -1416,7 +1416,7 @@
         "name": "Omnyel, silfo del cordoglio",
         "type": "Unità",
         "cost": "6",
-        "image": "https://i.postimg.cc/MTPGFLjR/Omnyel_silfo_del_cordoglio.png",
+        "image": "https://i.postimg.cc/6q8qnbnc/Omnyel_silfo_del_cordoglio.png",
         "isHorizontal": false
       }
     },
@@ -1462,7 +1462,7 @@
         "name": "Doppio colpo",
         "type": "Sortilegio",
         "cost": "2",
-        "image": "https://i.postimg.cc/bwkswLK2/Doppio_colpo.png",
+        "image": "https://i.postimg.cc/7h5h0t0V/Doppio_colpo.png",
         "isHorizontal": false
       }
     },
@@ -1745,7 +1745,7 @@
         "name": "Verhal, portatrice di linfa",
         "type": "Unità",
         "cost": "5",
-        "image": "https://i.postimg.cc/NFX5245S/portatrice.png",
+        "image": "https://i.postimg.cc/g27K91kd/Verhal_portatrice_della_linfa_inquieta.png",
         "isHorizontal": false
       }
     },
@@ -3386,7 +3386,7 @@
         "name": "Drathar, sovrano delle ceneri",
         "type": "Unità",
         "cost": "8",
-        "image": "https://i.postimg.cc/XJfvVvhC/Drathar-sovrano-delle-ceneri.png",
+        "image": "https://i.postimg.cc/D006shxB/Drathar_sovrano_delle_ceneri.png",
         "isHorizontal": false
       }
     },
@@ -3403,7 +3403,7 @@
         "name": "Murdak, tempio della Muraglia errante",
         "type": "Incantesimo",
         "cost": "3",
-        "image": "https://i.postimg.cc/nV1LgCqb/Murdak-tempio-della-Muraglia-errante.png",
+        "image": "https://i.postimg.cc/3NN1phtt/Murdak_tempio_della_Muraglia_errante.png",
         "isHorizontal": false
       }
     },
