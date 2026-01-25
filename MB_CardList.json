@@ -152,23 +152,6 @@
     "cost": "2",
     "Moraki": true
   },
-  "MB-MRK12": {
-    "id": "MB-MRK10",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Manipolazione del riflesso",
-        "type": "Sortilegio",
-        "cost": "2",
-        "image": "https://i.postimg.cc/W18tZt1p/Manipolazione-del-riflesso.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Manipolazione del riflesso",
-    "type": "Sortilegio",
-    "cost": "2",
-    "Moraki": true
-  },
   "MB-MRK10": {
     "id": "MB-MRK10",
     "isToken": false,
@@ -424,23 +407,6 @@
     "cost": "2",
     "Moraki": true
   },
-  "MB-MRK27": {
-    "id": "MB-MRK26",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Patto di morte",
-        "type": "Sortilegio",
-        "cost": "1",
-        "image": "https://i.postimg.cc/pLrM0dJS/Patto-di-morte.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Patto di morte",
-    "type": "Sortilegio",
-    "cost": "1",
-    "Moraki": true
-  },
   "MB-MRK26": {
     "id": "MB-MRK26",
     "isToken": false,
@@ -491,29 +457,6 @@
     "type": "Pedina",
     "cost": "1",
     "Moraki": true
-  },
-  "MB-NSR02": {
-    "id": "MB-SNR02",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Elmer lo scultore di golem",
-        "type": "Unità",
-        "cost": "2",
-        "image": "https://i.postimg.cc/g2kTYBwq/Elmer_lo_scultore_di_golem.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Elmer lo scultore di golem",
-    "type": "Unità",
-    "cost": "2",
-    "Moraki": false,
-    "Neshar": true,
-    "Shekai": false,
-    "Tarim": false,
-    "Valok": false,
-    "Xorak": false,
-    "Neutrale": false
   },
   "MB-NSR03": {
     "id": "MB-NSR03",
@@ -2789,23 +2732,6 @@
     "cost": "2",
     "Valok": true
   },
-  "MB-VLK06": {
-    "id": "https://media.discordapp.net/attachments/1462109967095169084/1462111656791248907/Draghetto_pescatore.png?ex=696d0117&is=696baf97&hm=824ffb99173632e1e40ab2b3a12539ee028ae7b51d9f71023892d7e4846c4951&=&format=webp&quality=lossless&width=608&height=859",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Draghetto pescatore",
-        "type": "Unità",
-        "cost": "3",
-        "image": "https://i.postimg.cc/3xsfgrSn/Draghetto-pescatore.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Draghetto pescatore",
-    "type": "Unità",
-    "cost": "3",
-    "Valok": true
-  },
   "MB-VLK07": {
     "id": "MB-VLK07",
     "isToken": false,
@@ -2908,23 +2834,6 @@
     "cost": "1",
     "Valok": true
   },
-  "MB-VLK14": {
-    "id": "MB-VLK13",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Fuoco di sbarramento",
-        "type": "Sortilegio",
-        "cost": "2",
-        "image": "https://i.postimg.cc/MpC3yZPr/Fuoco-di-sbarramento.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Fuoco di sbarramento",
-    "type": "Sortilegio",
-    "cost": "2",
-    "Valok": true
-  },
   "MB-VLK13": {
     "id": "MB-VLK13",
     "isToken": false,
@@ -3010,23 +2919,6 @@
     "cost": "2",
     "Valok": true
   },
-  "MB-VLK20": {
-    "id": "MB-VLK19",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Delph il quartiermastro irrascibile",
-        "type": "Unità",
-        "cost": "3",
-        "image": "https://i.postimg.cc/htdpPWDJ/Delph-il-quartiermastro-irrascibile.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Delph il quartiermastro irrascibile",
-    "type": "Unità",
-    "cost": "3",
-    "Valok": true
-  },
   "MB-VLK27": {
     "id": "MB-VLK27",
     "isToken": false,
@@ -3076,23 +2968,6 @@
     "name": "Il Leviatano",
     "type": "Unità",
     "cost": "7",
-    "Valok": true
-  },
-  "MB-VLK26": {
-    "id": "MB-VLK24",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Commercio marittimo",
-        "type": "Sortilegio",
-        "cost": "2",
-        "image": "https://i.postimg.cc/L81N6K9Y/Commercio-marittimo.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Commercio marittimo",
-    "type": "Sortilegio",
-    "cost": "2",
     "Valok": true
   },
   "MB-VLK19": {
@@ -3365,23 +3240,6 @@
     "name": "Spuntino rovente",
     "type": "Sortilegio",
     "cost": "1",
-    "Xorak": true
-  },
-  "MB-XRK14": {
-    "id": "MB-XRK13",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Immolazione spirituale",
-        "type": "Sortilegio",
-        "cost": "2",
-        "image": "https://i.postimg.cc/xTK3WGtj/Immolazione-spirituale.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Immolazione spirituale",
-    "type": "Sortilegio",
-    "cost": "2",
     "Xorak": true
   },
   "MB-XRK10": {
@@ -3911,29 +3769,53 @@
     "cost": 0,
     "Neutrale": true
   },
-  "MB-VLK25": {
-    "id": "MB-VLK25",
+  "MB-MRK27": {
+    "id": "MB-MRK27",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Kraken",
-        "type": "Unità",
-        "cost": "5",
-        "image": "https://i.postimg.cc/FKXGYW1t/Kraken.png",
+        "name": "Patto di morte",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/pLrM0dJS/Patto-di-morte.png",
         "isHorizontal": false
       }
     },
-    "name": "Kraken",
-    "type": "Unità",
-    "cost": "5",
-    "Moraki": false,
-    "": "",
-    "Neutrale": false,
+    "name": "Patto di morte",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": true,
     "Neshar": false,
     "Shekai": false,
     "Tarim": false,
-    "Valok": true,
-    "Xorak": false
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false,
+    "": ""
+  },
+  "MB-MRK12": {
+    "id": "MB-MRK12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manipolazione del riflesso",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/W18tZt1p/Manipolazione-del-riflesso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Manipolazione del riflesso",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Moraki": true,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false,
+    "": ""
   },
   "MB-NSR01": {
     "id": "MB-NSR01",
@@ -3951,12 +3833,180 @@
     "type": "Unità",
     "cost": "1",
     "Moraki": false,
-    "": "",
-    "Neutrale": false,
     "Neshar": true,
     "Shekai": false,
     "Tarim": false,
     "Valok": false,
-    "Xorak": false
+    "Xorak": false,
+    "Neutrale": false,
+    "": ""
+  },
+  "MB-NSR02": {
+    "id": "MB-NSR02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elmer lo scultore di golem",
+        "type": "Unità",
+        "cost": "2",
+        "image": "https://i.postimg.cc/g2kTYBwq/Elmer_lo_scultore_di_golem.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elmer lo scultore di golem",
+    "type": "Unità",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": true,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false,
+    "": ""
+  },
+  "MB-VLK25": {
+    "id": "MB-VLK25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kraken",
+        "type": "Unità",
+        "cost": "5",
+        "image": "https://i.postimg.cc/FKXGYW1t/Kraken.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kraken",
+    "type": "Unità",
+    "cost": "5",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": true,
+    "Xorak": false,
+    "Neutrale": false,
+    "": ""
+  },
+  "MB-VLK20": {
+    "id": "MB-VLK20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Delph il quartiermastro irrascibile",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/htdpPWDJ/Delph_il_quartiermastro_irrascibile.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Delph il quartiermastro irrascibile",
+    "type": "Unità",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": true,
+    "Xorak": false,
+    "Neutrale": false,
+    "": ""
+  },
+  "MB-VLK22": {
+    "id": "MB-VLK22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Commercio marittimo",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/L81N6K9Y/Commercio-marittimo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Commercio marittimo",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": true,
+    "Xorak": false,
+    "Neutrale": false,
+    "": ""
+  },
+  "MB-VLK06": {
+    "id": "MB-VLK06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Draghetto pescatore",
+        "type": "Unità",
+        "cost": "3",
+        "image": "https://i.postimg.cc/3xsfgrSn/Draghetto-pescatore.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Draghetto pescatore",
+    "type": "Unità",
+    "cost": "3",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": true,
+    "Xorak": false,
+    "Neutrale": false,
+    "": ""
+  },
+  "MB-VLK14": {
+    "id": "MB-VLK14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fuoco di sbarramento",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/MpC3yZPr/Fuoco_di_sbarramento.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fuoco di sbarramento",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": true,
+    "Xorak": false,
+    "Neutrale": false,
+    "": ""
+  },
+  "MB-XRK14": {
+    "id": "MB-XRK14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Immolazione spirituale",
+        "type": "Sortilegio",
+        "cost": "2",
+        "image": "https://i.postimg.cc/xTK3WGtj/Immolazione_spirituale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Immolazione spirituale",
+    "type": "Sortilegio",
+    "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": true,
+    "Neutrale": false,
+    "": ""
   }
 }
