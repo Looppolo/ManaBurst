@@ -3208,23 +3208,6 @@
     "cost": "1",
     "Xorak": true
   },
-  "MB-XRK12": {
-    "id": "MB-XRK11",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Liturgia della brace",
-        "type": "Sortilegio",
-        "cost": "1",
-        "image": "https://i.postimg.cc/DwnPFWMN/Liturgia-della-brace.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Liturgia della brace",
-    "type": "Sortilegio",
-    "cost": "1",
-    "Xorak": true
-  },
   "MB-XRK10": {
     "id": "MB-XRK10",
     "isToken": false,
@@ -4005,6 +3988,30 @@
       }
     },
     "name": "Spuntino rovente",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": true,
+    "Neutrale": false,
+    "": ""
+  },
+  "MB-XRK12": {
+    "id": "MB-XRK12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Liturgia della brace",
+        "type": "Pedina",
+        "cost": "1",
+        "image": "https://i.postimg.cc/DwnPFWMN/Liturgia_della_brace.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Liturgia della brace",
     "type": "Sortilegio",
     "cost": "1",
     "Moraki": false,
