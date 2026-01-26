@@ -3225,23 +3225,6 @@
     "cost": "1",
     "Xorak": true
   },
-  "MB-XRK13": {
-    "id": "MB-XRK12",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Spuntino rovente",
-        "type": "Sortilegio",
-        "cost": "1",
-        "image": "https://i.postimg.cc/k55N609z/Spuntino-rovente.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Spuntino rovente",
-    "type": "Sortilegio",
-    "cost": "1",
-    "Xorak": true
-  },
   "MB-XRK10": {
     "id": "MB-XRK10",
     "isToken": false,
@@ -4000,6 +3983,30 @@
     "name": "Immolazione spirituale",
     "type": "Sortilegio",
     "cost": "2",
+    "Moraki": false,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": true,
+    "Neutrale": false,
+    "": ""
+  },
+  "MB-XRK13": {
+    "id": "MB-XRK13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spuntino rovente",
+        "type": "Sortilegio",
+        "cost": "1",
+        "image": "https://i.postimg.cc/k55N609z/Spuntino_rovente.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spuntino rovente",
+    "type": "Sortilegio",
+    "cost": "1",
     "Moraki": false,
     "Neshar": false,
     "Shekai": false,
