@@ -42,8 +42,8 @@
         "info": "",
         "startingHandSize": "6",
         "drawNewHand": false,
-        "putSelectionAtBottom": true,
-        "drawNewSelectedCards": false
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": true
       },
       "newTurn": {
         "drawOnStart": true,
