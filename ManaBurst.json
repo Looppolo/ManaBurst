@@ -52,28 +52,10 @@
         "drawPerTurn": "2"
       },
       "defaultNotes": "",
-      "tokens": [
-        {
-          "name": "Offerta elementale",
-          "image": "https://i.postimg.cc/9XB7v6zN/Offerta.png",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Magia proibita",
-          "image": "https://i.postimg.cc/nV1D6yMS/magia.png",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
-        },
-        {
-          "name": "Doblone",
-          "image": "https://i.postimg.cc/HWtyfqjB/Doblone.png",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
-        }
-      ],
+      "tokens": [],
       "countersStartingValues": [
-        "20"
+        "20",
+        0
       ],
       "hideFacedDownCards": false,
       "sections": {
