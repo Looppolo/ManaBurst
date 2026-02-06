@@ -1554,7 +1554,7 @@
         "name": "Sorgente incantata",
         "type": "Incantesimo",
         "cost": "3",
-        "image": "https://i.postimg.cc/7h5L8Ngs/Sorgente_incantata.png",
+        "image": "https://i.postimg.cc/yNks2Hr3/Sorgente_incantata.png",
         "isHorizontal": false
       }
     },
@@ -1647,13 +1647,6 @@
         "type": "Unità",
         "cost": "2",
         "image": "https://i.postimg.cc/LXwJs76t/Frondaguerriero_della_rinascita.png",
-        "isHorizontal": false
-      },
-      "back": {
-        "name": "",
-        "type": "Pedina",
-        "cost": 0,
-        "image": "",
         "isHorizontal": false
       }
     },
@@ -3165,7 +3158,7 @@
         "name": "Sahtra, la progenitrice di fiamme",
         "type": "Unità",
         "cost": "5",
-        "image": "https://i.postimg.cc/hGG8zkgj/Sahtra_la_progenitrice_di_fiamme.png",
+        "image": "https://i.postimg.cc/Kz8vGTzM/Sahtra_la_progenitrice_di_fiamme.png",
         "isHorizontal": false
       }
     },
@@ -3352,7 +3345,7 @@
         "name": "Drathar, sovrano delle ceneri",
         "type": "Unità",
         "cost": "8",
-        "image": "https://i.postimg.cc/D006shxB/Drathar_sovrano_delle_ceneri.png",
+        "image": "https://i.postimg.cc/02W4FwR5/Drathar_sovrano_delle_ceneri.png",
         "isHorizontal": false
       }
     },
