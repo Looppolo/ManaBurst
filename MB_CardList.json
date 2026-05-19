@@ -109,11 +109,11 @@
         "name": "Altare necrofago",
         "type": "Incantesimo",
         "cost": "2",
-        "image": "https://i.postimg.cc/FsjY9TtK/Altare-necrofago.png",
+        "image": "https://i.postimg.cc/Jn6wtvRW/Altare-sanguifero.png",
         "isHorizontal": false
       }
     },
-    "name": "Altare necrofago",
+    "name": "Grimorio sanguifero ",
     "type": "Incantesimo",
     "cost": "2",
     "Moraki": true
@@ -123,7 +123,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Grimorio del culto nero",
+        "name": "Grimorio sanguifero ",
         "type": "Incantesimo",
         "cost": "2",
         "image": "https://i.postimg.cc/T3fphnG4/Grimorio-del-culto-nero.png",
@@ -143,7 +143,7 @@
         "name": "Incantesimo proibito",
         "type": "Incantesimo",
         "cost": "2",
-        "image": "https://i.postimg.cc/SQ6vpQMf/Incantesimo_proibito.png",
+        "image": "https://i.postimg.cc/sX6F1q3r/Incantesimo-proibito.png",
         "isHorizontal": false
       }
     },
@@ -2191,7 +2191,7 @@
         "name": "Vantaggio tattico",
         "type": "Incantesimo",
         "cost": "2",
-        "image": "https://i.postimg.cc/wvvNMLXm/Vantaggio_tattico.png",
+        "image": "https://i.postimg.cc/HL0zSyN2/Vantaggio-tattico.png",
         "isHorizontal": false
       }
     },
@@ -2276,14 +2276,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ritorno economico ",
+        "name": "Impulso venale ",
         "type": "Pedina",
         "cost": "2",
-        "image": "https://i.postimg.cc/pdPzNgpV/Ritorno_economico.png",
+        "image": "https://i.postimg.cc/cJ7hDnzh/impulso-venale.png",
         "isHorizontal": false
       }
     },
-    "name": "Ritorno economico ",
+    "name": "Impulso venale ",
     "type": "Pedina",
     "cost": "2",
     "Valok": false,
@@ -2682,7 +2682,7 @@
         "name": "Studioso del Frangiflutti corallino",
         "type": "Unità",
         "cost": "1",
-        "image": "https://i.postimg.cc/MTxsFP86/Studioso-del-Frangiflutti-corallino.png",
+        "image": "https://i.postimg.cc/nrXwwLBt/Studioso-del-Frangiflutti-corallino.png",
         "isHorizontal": false
       }
     },
@@ -3036,14 +3036,14 @@
     "isToken": true,
     "face": {
       "front": {
-        "name": "Spiritello delle onde",
+        "name": "Barile esplosivo",
         "type": "Pedina",
         "cost": "1",
-        "image": "https://i.postimg.cc/fbxsdrKc/Spiritello-delle-onde.png",
+        "image": "https://i.postimg.cc/hvX33Gxk/Barile-esplosivo.png",
         "isHorizontal": false
       }
     },
-    "name": "Spiritello delle onde",
+    "name": "Barile esplosivo",
     "type": "Pedina",
     "cost": "1",
     "Valok": true
@@ -3498,7 +3498,7 @@
         "name": "Efiro, l'imperatore della volta celeste",
         "type": "Pedina",
         "cost": "5",
-        "image": "https://i.postimg.cc/t4sCskwt/Efiro-l-imperatore-della-volta-celeste.png",
+        "image": "https://i.postimg.cc/jdj43Zwn/Efiro-l-imperatore-della-volta-celeste.png",
         "isHorizontal": false
       }
     },
@@ -3532,7 +3532,7 @@
         "name": "Phyro, drago bruciamondi",
         "type": "Pedina",
         "cost": "5",
-        "image": "https://i.postimg.cc/y8DYDjtT/Phyro-drago-bruciamondi.png",
+        "image": "https://i.postimg.cc/Wbf6Bggp/Phyro-drago-bruciamondi.png",
         "isHorizontal": false
       }
     },
