@@ -106,14 +106,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Altare necrofago",
+        "name": "Altare sanguifero ",
         "type": "Incantesimo",
         "cost": "2",
         "image": "https://i.postimg.cc/Jn6wtvRW/Altare-sanguifero.png",
         "isHorizontal": false
       }
     },
-    "name": "Grimorio sanguifero ",
+    "name": "Altare sanguifero ",
     "type": "Incantesimo",
     "cost": "2",
     "Moraki": true
@@ -123,7 +123,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Grimorio sanguifero ",
+        "name": "Grimorio del culto nero ",
         "type": "Incantesimo",
         "cost": "2",
         "image": "https://i.postimg.cc/T3fphnG4/Grimorio-del-culto-nero.png",
@@ -3038,8 +3038,8 @@
       "front": {
         "name": "Barile esplosivo",
         "type": "Pedina",
-        "cost": "1",
-        "image": "https://i.postimg.cc/hvX33Gxk/Barile-esplosivo.png",
+        "cost": "0",
+        "image": "https://i.postimg.cc/2jcBTCCp/Barile-esplosivo.png",
         "isHorizontal": false
       }
     },
