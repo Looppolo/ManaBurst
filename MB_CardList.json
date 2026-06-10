@@ -106,14 +106,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Altare sanguifero ",
+        "name": "Altare necrofago",
         "type": "Incantesimo",
         "cost": "2",
         "image": "https://i.postimg.cc/Jn6wtvRW/Altare-sanguifero.png",
         "isHorizontal": false
       }
     },
-    "name": "Altare sanguifero ",
+    "name": "Grimorio sanguifero ",
     "type": "Incantesimo",
     "cost": "2",
     "Moraki": true
@@ -123,7 +123,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Grimorio del culto nero ",
+        "name": "Grimorio sanguifero ",
         "type": "Incantesimo",
         "cost": "2",
         "image": "https://i.postimg.cc/T3fphnG4/Grimorio-del-culto-nero.png",
@@ -228,7 +228,7 @@
         "name": "Adepta della magia proibita",
         "type": "Unità",
         "cost": "1",
-        "image": "https://i.postimg.cc/htynp1Gd/Adepta-della-magia-proibita.png",
+        "image": "https://i.postimg.cc/qMjdXKyg/Adepta-della-magia-proibita.png",
         "isHorizontal": false
       }
     },
@@ -262,7 +262,7 @@
         "name": "Lakarim, Iniziata del culto proibito",
         "type": "Unità",
         "cost": "1",
-        "image": "https://i.postimg.cc/7Zs4mnLg/Lakarim-Iniziata-del-Culto-proibito.png",
+        "image": "https://i.postimg.cc/j24g6vT5/Lakarim_Iniziata_del_Culto_proibito.png",
         "isHorizontal": false
       }
     },
@@ -313,7 +313,7 @@
         "name": "Abietto guardasoglia",
         "type": "Unità",
         "cost": "3",
-        "image": "https://i.postimg.cc/Z57mVxqB/Abietto-guardasoglia.png",
+        "image": "https://i.postimg.cc/zX01ShKB/Abietto-guardasoglia.png",
         "isHorizontal": false
       }
     },
@@ -363,14 +363,14 @@
       "front": {
         "name": "Cancello dell'oblio",
         "type": "Incantesimo",
-        "cost": "2",
-        "image": "https://i.postimg.cc/527JnSt6/Cancello-dell-oblio.png",
+        "cost": "1",
+        "image": "https://i.postimg.cc/0j0WGZvb/Cancello_dell_oblio.png",
         "isHorizontal": false
       }
     },
     "name": "Cancello dell'oblio",
     "type": "Incantesimo",
-    "cost": "2",
+    "cost": "1",
     "Moraki": true
   },
   "MB-MRK24": {
@@ -395,7 +395,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "https://i.postimg.cc/rwnTQNpR/Altare-del-furto-spirituale.png",
+        "name": "Altare del furto spirituale",
         "type": "Incantesimo",
         "cost": "2",
         "image": "https://i.postimg.cc/sDwR9W7x/Altare-del-furto-spirituale.png",
@@ -2699,7 +2699,7 @@
         "name": "Cambusiere dell'inquisitrice blu",
         "type": "Unità",
         "cost": "2",
-        "image": "https://i.postimg.cc/0NkvCHxr/Cambusiere-dell-Inquisitrice-blu.png",
+        "image": "https://i.postimg.cc/13k7pRCG/Cambusiere-dell-Inquisitrice-blu.png",
         "isHorizontal": false
       }
     },
@@ -2818,7 +2818,7 @@
         "name": "Battuta di pesca",
         "type": "Sortilegio",
         "cost": "1",
-        "image": "https://i.postimg.cc/wBqzkbHv/Battuta-di-pesca.png",
+        "image": "https://i.postimg.cc/y8grg3Px/Battuta-di-pesca.png",
         "isHorizontal": false
       }
     },
@@ -2917,14 +2917,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Correnti abissali",
+        "name": "Richiamo del Frangiflutti corallino",
         "type": "Sortilegio",
         "cost": "2",
-        "image": "https://i.postimg.cc/25kYxXmk/Correnti-abissali.png",
+        "image": "https://i.postimg.cc/zB0kPqjn/Richiamo.png",
         "isHorizontal": false
       }
     },
-    "name": "Correnti abissali",
+    "name": "Richiamo del Frangiflutti corallino",
     "type": "Sortilegio",
     "cost": "2",
     "Valok": true
@@ -3038,8 +3038,8 @@
       "front": {
         "name": "Barile esplosivo",
         "type": "Pedina",
-        "cost": "0",
-        "image": "https://i.postimg.cc/2jcBTCCp/Barile-esplosivo.png",
+        "cost": "1",
+        "image": "https://i.postimg.cc/hvX33Gxk/Barile-esplosivo.png",
         "isHorizontal": false
       }
     },
@@ -3945,7 +3945,7 @@
         "name": "Fuoco di sbarramento",
         "type": "Sortilegio",
         "cost": "2",
-        "image": "https://i.postimg.cc/QM8DqnsH/Fuoco-di-sbarramento.png",
+        "image": "https://i.postimg.cc/MpC3yZPr/Fuoco_di_sbarramento.png",
         "isHorizontal": false
       }
     },
@@ -4032,5 +4032,55 @@
     "Xorak": true,
     "Neutrale": false,
     "": ""
-  }
+  },
+  "MB-love1": {
+    "id": "love1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "vero",
+        "type": "Sortilegio",
+        "cost": "9",
+        "image": "https://i.postimg.cc/pLRCcbXc/picci.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Promessa del destino",
+    "type": "Sortilegio",
+    "cost": "1",
+    "Moraki": true,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false,
+    "": ""
+  
+},
+  "MB-love2": {
+    "id": "love2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "vero",
+        "type": "Sortilegio",
+        "cost": "9",
+        "image": "https://i.postimg.cc/fT0fRWJN/Copia-di-picci.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Diade del vincolo eterno",
+    "type": "Pedina",
+    "cost": "9",
+    "Moraki": true,
+    "Neshar": false,
+    "Shekai": false,
+    "Tarim": false,
+    "Valok": false,
+    "Xorak": false,
+    "Neutrale": false,
+    "": ""
+
+}
 }
